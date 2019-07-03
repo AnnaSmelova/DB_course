@@ -1,3 +1,10 @@
+/*
+ Создайте базу данных example, 
+ разместите в ней таблицу users, 
+ состоящую из двух столбцов, 
+ числового id и строкового name.
+ */
+
 DROP DATABASE IF EXISTS example;
 CREATE database example;
 
